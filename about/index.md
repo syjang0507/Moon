@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Jenny
-tags: [about, Jekyll, theme, moon]
+tags: [about, Jenny, position, Blog]
 date: 2018-02-14
 comments: false
 ---
