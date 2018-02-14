@@ -1,6 +1,6 @@
 # Site
-title:              Jenny Jang
-bio:                'Minimal, one column jekyll theme.'
+title:              Jenny Jang's blog
+bio:                'This is Jenny's blog. I am a web project manager.'
 description:        "This is Jenny's blog. I am a web project manager."
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://syjang0507.github.io/syjang0507
 
 # Jekyll
 permalink:          /:title/
