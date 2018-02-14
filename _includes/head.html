@@ -14,6 +14,10 @@
     {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if site.twitter %}<meta name="twitter:site" content="@{{ site.twitter }}">
     <meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
+
+    <!-- Naver web Master -->
+    <meta name="naver-site-verification" content="5ea069152aa5cb29aad6982af95e5ed311ecd676"/>
+
     <!-- Open Graph -->
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:type" content="article">
