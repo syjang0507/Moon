@@ -6,9 +6,9 @@ date: 2016-03-21
 comments: false
 ---
 
-<center>About <a href="http://taylantatli.github.io/Moon"><b>Jenny</b></a></center>
+<center>About <a href="https://www.linkedin.com/in/jenny-jang"><b>Jenny</b></a></center>
 
-## Features
+## Position
 * Web project manager
 * Web Master
 * Manage CMS(Contents Management System / CQ5, Magento, Drupal, Wordpress)
