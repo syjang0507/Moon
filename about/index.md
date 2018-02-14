@@ -18,9 +18,9 @@ comments: false
 * GA (Google Analytics) management
 
 ## Blog
-* <a href="https://blog.naver.com/syjang3689"><b>Naver blog</b></a>
-* <a href="https://brunch.co.kr/@bigpicture"><b>Brunch</b></a>
-* <a href="http://bigpicture.dothome.co.kr/"><b>Traveler blog</b></a>
+* <b>글쓰며 소통하는 기획자 : </b><a href="https://brunch.co.kr/@bigpicture">Brunch</a>
+* <b>마케팅을 공부하며, 기록하는 마케터 : </b><a href="https://blog.naver.com/syjang3689">Naver blog</a>
+* <b>배우고 연습하는 프로젝트 매니저 : </b><a href="http://bigpicture.dothome.co.kr/">Traveler blog</a>
 
 
 <!-- ## Preview
