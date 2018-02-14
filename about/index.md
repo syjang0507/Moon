@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
+title: About Jenny
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2018-02-14
 comments: false
 ---
 
@@ -16,6 +16,11 @@ comments: false
 * Communication (JIRA, Slack, wiki)
 * UI / UX Planner
 * GA (Google Analytics) management
+
+## Blog
+* <a href="https://blog.naver.com/syjang3689"><b>Naver blog</b></a>
+* <a href="https://brunch.co.kr/@bigpicture"><b>Brunch</b></a>
+* <a href="http://bigpicture.dothome.co.kr/"><b>Traveler blog</b></a>
 
 
 <!-- ## Preview
